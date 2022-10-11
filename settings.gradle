@@ -1,0 +1,6 @@
+rootProject.name = 'test_project'
+include 'ui_framework'
+include 'ui_framework'
+include 'selenium'
+include 'logs'
+
